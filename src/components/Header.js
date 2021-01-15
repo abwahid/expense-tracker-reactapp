@@ -5,7 +5,7 @@ export const Header = () => {
         <div>
             <h1>
                 Expense Tracker by:
-                <br /> Abdul Wahid
+                <br /> ABDUL WAHID
             </h1>
         </div>
     )
